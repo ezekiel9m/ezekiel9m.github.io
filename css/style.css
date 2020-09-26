@@ -147,7 +147,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
   -moz-animation: load 1s infinite linear;
   animation: load 1s infinite linear;
   background: -webkit-linear-gradient(top, #fec608 10%, rgba(255, 255, 255, 0) 100%);
-  background: linear-gradient(to bottom, red 10%, rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(to bottom, #fec608 10%, rgba(255, 255, 255, 0) 100%);
   height: 4em;
   width: 4em;
   border-radius: 50%;
@@ -165,7 +165,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
   height: 100%;
   width: 100%;
   background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0) 50%, #fec608 50%);
-  background: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, red 50%);
+  background: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, #fec608 50%);
   border-radius: 100%;
   content: '';
 }
@@ -1608,7 +1608,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .footer_copyright .pull-right .navbar-nav li:hover a, .footer_copyright .pull-right .navbar-nav li.active a {
-  color: red;
+  color: #f9bf3f;
 }
 
 /* End Footer area css
