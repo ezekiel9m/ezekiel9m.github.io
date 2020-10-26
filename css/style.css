@@ -66,19 +66,19 @@ body {
 }
 
 body.light_bg {
-  background-color: black;
+  background-color: #1C1C1C;
   /* background: url(../img/Pattern_Light.png) repeat scroll center center; */
   background-size: contain;
 }
 
 body.dark_bg {
-  background-color: black;
+  background-color: #1C1C1C;
   /* background: url(../img/Pattern_Light.png) repeat scroll center center; */
   background-size: contain;
 }
 
 body .content_inner_bg {
-  background: black;
+  background: #1C1C1C;
 }
 
 body, p, h1, h2, h3, h4, h5, h6 {
@@ -224,7 +224,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 /* Header Menu Area css
 ============================================================================================ */
 .header_area {
-  background: black;
+  background: #1C1C1C;
 }
 
 .header_area .navbar.navbar-default {
@@ -679,7 +679,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 .education_area .education_inner_area .education_item {
   width: 50%;
   max-width: 420px;
-  background: black;
+  background: #1C1C1C;
   margin-bottom: 30px;
   padding: 20px;
   position: relative;
@@ -689,7 +689,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 .education_area .education_inner_area .education_skills {
   width: 100%;
   max-width: 1000px;
-  background: black;
+  background: #1C1C1C;
   margin-bottom: 30px;
   padding: 20px;
   position: relative;
@@ -801,13 +801,13 @@ body, p, h1, h2, h3, h4, h5, h6 {
   left: 50%;
   width: 5px;
   margin-left: -2.5px;
-  background:black;
+  background:#1C1C1C;
 }
 
 .education_area1 .education_inner_area1 .education_item {
   width: 50%;
   max-width: 420px;
-  background: black;
+  background: #1C1C1C;
   margin-bottom: 30px;
   padding: 20px;
   position: relative;
@@ -1287,13 +1287,13 @@ body, p, h1, h2, h3, h4, h5, h6 {
 .left_contact_details .media .media-left i {
   height: 60px;
   width: 60px;
-  background: black;
+  background: #1C1C1C;
   color: #f0ad4e;
   font-size: 30px;
   text-align: center;
   line-height: 60px;
   border-radius: 50%;
-  border: 1px solid black;
+  border: 1px solid #1C1C1C;
   transition: all 400ms linear 0s;
 }
 
@@ -1433,8 +1433,8 @@ body, p, h1, h2, h3, h4, h5, h6 {
   position: relative;
   width: 200px;
   padding: 20px 20px 30px 20px;
-  -webkit-box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.3);
-  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 0px 4px #1C1C1C;
+  box-shadow: 0px 0px 4px#1C1C1C;
   overflow: hidden;
   clear: both;
 }
@@ -1511,7 +1511,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 ============================================================================================ */
 .footer_inner {
   text-align: center;
-  background: rgba(0, 0, 0, 0.5);
+  background: #1C1C1C;
   padding: 80px 0px 60px 0px;
   margin-top: -30px;
 }
@@ -1572,7 +1572,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .footer_copyright {
-  background: black;
+  background: #1C1C1C;
 }
 
 .footer_copyright .pull-left h5 {
@@ -1762,7 +1762,7 @@ padding-top: 2px;}
     .colorlib-feature .colorlib-text h3 {
       font-weight: 500;
       margin-bottom: 20px;
-      color: rgba(0, 0, 0, 0.7);
+      color: #1C1C1C;
       font-size: 14px;
       letter-spacing: 3px;
       text-transform: uppercase; }
